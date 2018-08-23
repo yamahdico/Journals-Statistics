@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ArticleSet PUBLIC "-//NLM//DTD PubMed 2.6//EN" "https://www.ncbi.nlm.nih.gov/corehtml/query/static/PubMed.dtd">
+<ArticleSet>
+<Article>
+<Journal>
+				<PublisherName>دانشگاه آزاد اسلامی</PublisherName>
+				<JournalTitle>پژوهش های مدیریت راهبردی</JournalTitle>
+				<Issn/>
+				<Volume>23</Volume>
+				<Issue>64</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Implementation of Marketing Strategies Based on Customer Lifetime and Referral Value 
+ (Case Study:broadband Internet Service Industry)</ArticleTitle><VernacularTitle>تدوین استراتژی‌های بازاریابی بر اساس ارزش دوره عمر و ارجاع مشتری (مورد مطالعه: صنعت خدمات اینترنت پرسرعت)</VernacularTitle>
+			<FirstPage>9</FirstPage>
+			<LastPage>25</LastPage>
+			<ELocationID EIdType="pii">532384</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>محمد </FirstName>
+					<LastName>حقیقی</LastName>
+					<Affiliation>دانشیار گروه مدیریت بازرگانی، دانشکده مدیریت، دانشگاه تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>بابک </FirstName>
+					<LastName>هزاوه حصار مسکن</LastName>
+					<Affiliation>دانشجوی دکتری مدیریت سیستم، دانشکده مدیریت پردیس فارابی، دانشگاه تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>مهدی </FirstName>
+					<LastName>اشکانی</LastName>
+					<Affiliation>دانشجوی دکتری مدیریت سیستم، دانشکده مدیریت پردیس فارابی، دانشگاه تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>امیرحسین </FirstName>
+					<LastName>عباسی</LastName>
+					<Affiliation>کارشناس ارشد مدیریت بازاریابی، دانشکده مدیریت، دانشگاه تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+</AuthorList>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2017</Year>
+					<Month>01</Month>
+					<Day>10</Day>
+				</PubDate>
+			</History>
+		<Abstract><![CDATA[Nowadays, due to the sharp increase in competition and expansion of competitive markets, customer lifetime value has become one of the main topics in customer relationship management. The models which have been used so far for the estimation of customer lifetime value and segmentation of customers do not include all aspects of customer value. The main purpose of this study is to assess the impact of customer’s value on other customers through estimation of customer referral value and then provide appropriate marketing strategies for each segment of customers based on their value in the broadband internet access services industry. Using the data obtained from a firm operating in the industry, it will be shown that the customers who have the largest transactions (i.e. those who have the highest lifetime value) are not necessarily the best marketers. The statistical population of this study included all customers of a telecommunication firm in Tehran and all members of the population were selected as the sample. The required data were obtained from reports of the customer database of the studied firm using MySQL, PHPMyAdmin, and Tableau. All data were statistically analyzed in IBM SPSS Statistics 22. Using the results of this study, it will be shown that a better understanding of customer value allows firms to target their marketing campaigns more properly and gain higher profits from their marketing investments.]]></Abstract>
+			<OtherAbstract Language="FA"><![CDATA[امروزه به سبب افزایش شدید رقابت و به وجود آمدن بازارهای رقابتی، ارزش دوره عمر مشتری جزو مباحث موردتوجه در زمینه مدیریت ارتباط با مشتری شده است؛ اما مدل‌هایی که تاکنون برای محاسبه آن و دسته‌بندی مشتریان به‌کاررفته‌اند دربرگیرنده تمامی وجوه ارزش مشتری نیستند. هدف اصلی پژوهش حاضر سنجش تأثیر ارزش یک مشتری روی ارزش مشتریان دیگر از طریق محاسبه ارزش ارجاع مشتری و درنهایت ارائه استراتژی‌های بازاریابی مناسب برای هر دسته از مشتریان بر اساس ارزش آن‌ها در صنعت خدمات دسترسی به اینترنت پرسرعت است. با استفاده از داده‌های مربوط به شرکت مورد مطالعه در صنعت ارتباطات، نشان داده می‌شود که مشتریانی که بیشترین معاملات را دارند (آن‌هایی که بالاترین ارزش طول عمر را دارند) معمولاً بهترین بازاریاب‌ها نیستند. جامعه آماری این پژوهش، کلیه مشتریان شرکت در شهر تهران است که امکان ارجاع مشتری برای آن‌ها فعال‌شده و از روش تمام‌شماری استفاده می‌شود. روش گردآوری داده‌ها از طریق گزارش‌گیری از پایگاه داده مشتریان با استفاده از MySQL، PHPMyAdmin و Tableau است و در تحلیل داده‌ها از نرم‌افزار IBM SPSS Statistics 22 استفاده‌شده است. با استفاده از نتایج این پژوهش، نشان داده می‌شود که درک بهتر از میزان ارزش مشتریان سبب می‌شود تا شرکت‌ها کمپین‌های بازاریابی‌شان را به شکل مناسبی هدف‌گذاری کنند و به‌این‌ترتیب سودهای بالاتری از سرمایه‌گذاری‌های بازاریابی‌شان حاصل کنند.]]></OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">تقسیم‌بندی مشتریان</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ارزش دوره عمر مشتری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ارزش ارجاع مشتری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">ماتریس ارزش مشتری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تبلیغات دهان‌به‌دهان</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://smr.journals.iau.ir/article_532384_bb7fe15168ffcf754dc2d763ae41548b.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه آزاد اسلامی</PublisherName>
+				<JournalTitle>پژوهش های مدیریت راهبردی</JournalTitle>
+				<Issn/>
+				<Volume>23</Volume>
+				<Issue>64</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>Pathology of selecting and stability of faculty members in Islamic Azad University with strategic approach</ArticleTitle><VernacularTitle>آسیب‌شناسی انتخاب و پایداری اعضای هیات‌علمی در دانشگاه ‌آزاد اسلامی با رویکرد راهبردی</VernacularTitle>
+			<FirstPage>27</FirstPage>
+			<LastPage>48</LastPage>
+			<ELocationID EIdType="pii">532389</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>نبی اله </FirstName>
+					<LastName>محمدی</LastName>
+					<Affiliation>دانش‌آموخته دکتری مدیریت دولتی، واحد علوم و تحقیقات، دانشگاه آزاد اسلامی تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>رضا </FirstName>
+					<LastName>نجف بیگی</LastName>
+					<Affiliation>استاد گروه مدیریت دولتی، واحد علوم و تحقیقات، دانشگاه آزاد اسلامی تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>مرتضی </FirstName>
+					<LastName>موسی خانی</LastName>
+					<Affiliation>استاد گروه مدیریت دولتی، واحد علوم و تحقیقات، دانشگاه آزاد اسلامی تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>اکبر </FirstName>
+					<LastName>عالم تبریز</LastName>
+					<Affiliation>استاد مدیریت صنعتی، دانشگاه شهید بهشتی</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+</AuthorList>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>11</Month>
+					<Day>24</Day>
+				</PubDate>
+			</History>
+		<Abstract><![CDATA[This study aimed to “Pathology of selecting and stability of faculty members in Islamic Azad University with strategic approach" has been implemented. The population consisted of faculty members of Islamic Azad University. The study in term of goal was descriptive, in term of time, cross-sectional and in term of the respondent, is applied. To collect data from a survey and a closed questionnaire has been used. The face and content validity of the questionnaire was confirmed by experts. SPSS software to evaluate the reliability of the questionnaire and Cronbach's alpha coefficient was 97%. To determine the optimal situation, using Morgan table sample size 360 patients was determined and cluster sampling was used.  To measure according to each criterion in the selection of faculty members, the experts in studied universities that attract at least 3 members of the faculty members participated in the working group meeting, purposive sampling method was used.  To determine the normal distribution of data Kolmogorov - Smirnov test was used for the test results for all variables, more than 0.5 (p>0.05); the paired t-test was used to assess the gap between current and desirable condition. The results showed that there is a significant difference between the current situation and desirable situation, for variables specialized knowledge, teaching skills, communication and leadership skills, complementary skills, research and technology, collectivism, personality and moral in the Islamic Azad University,  but for variables professional services (scientific executive) and religious criteria was not significant.]]></Abstract>
+			<OtherAbstract Language="FA"><![CDATA[پژوهش حاضر با هدف «آسیب‌شناسی انتخاب و پایداری اعضای هیات‌علمی در دانشگاه‌ آزاد اسلامی با رویکرد راهبردی» اجرا شده است. جامعه آماری پژوهش اعضای هیات‌علمی دانشگاه­ آزاد اسلامی است. نوع تحقیق از بعد هدف توصیفی، از بعد زمان، مقطعی و از بعد مخاطب استفاده‌کننده، کاربردی محسوب می‌شود. بر اساس مدل راهبردی انتخاب و پایداری اعضای هیئت‌علمی محمدی و همکاران (1395)، برای گردآوری داده‌ها از روش پیمایشی و از ابزار پرسشنامه بسته استفاده‌شده است. روایی صوری و محتوایی پرسشنامه، با نظر خبرگان بررسی و تائید شد. به‌منظور بررسی پایایی پرسشنامه به کمک نرم‌افزار SPSS ضریب آلفای کرونباخ پرسشنامه 97 درصد به دست آمد. جهت تعیین وضعیت مطلوب، با استفاده از جدول مورگان اندازه نمونه 360 نفر تعیین شد و از روش نمونه‌گیری خوشه‌ای استفاده گردید. برای سنجش میزان توجه به هر یک از معیارها در انتخاب اعضای هیات‌علمی، از نظرات خبرگان دانشگاه‌ مورد مطالعه که حداقل ۳ جلسه در کارگروه جذب اعضای هیات‌علمی مشارکت کرده بودند، با روش نمونه‌گیری هدفمند استفاده گردید. برای تشخیص نرمال بودن توزیع داده‌ها از آزمون کلموگروف – اسمیرنف استفاده گردید که نتایج این آزمون برای همه متغیرها، بیشتر از ۵/۰ (۰٫۰۵p >) به دست آمد؛ لذا از آزمون t زوجی برای بررسی شکاف بین وضعیت موجود و مطلوب استفاده شد. نتایج پژوهش نشان داد که در دانشگاه آزاد اسلامی اختلاف بین وضعیت موجود و وضعیت مطلوب، برای متغیرهای دانش تخصصی، مهارت‌های تدریس، مهارت‌های ارتباطی و رهبری، مهارت‌های مکمل، خدمات پژوهشی و فناوری، جمع‌گرایی، ویژگی‌های شخصیتی و ویژگی‌های اخلاقی، معنادار است؛ اما برای متغیرهای خدمات حرفه‌ای (علمی- اجرایی) و معیارهای دینی معنادار نبود.]]></OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">آسیب‌شناسی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت منابع انسانی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل راهبردی انتخاب و پایداری</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://smr.journals.iau.ir/article_532389_fc08c5bd2f48872cb1080416d8880e30.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه آزاد اسلامی</PublisherName>
+				<JournalTitle>پژوهش های مدیریت راهبردی</JournalTitle>
+				<Issn/>
+				<Volume>23</Volume>
+				<Issue>64</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>...</ArticleTitle><VernacularTitle>طراحی و تبیین شاخص‌های الگوی برتری در سرآمدی مدیریت دانش استراتژیک</VernacularTitle>
+			<FirstPage>49</FirstPage>
+			<LastPage>72</LastPage>
+			<ELocationID EIdType="pii">532390</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>محمدرضا </FirstName>
+					<LastName>حمیدی زاده</LastName>
+					<Affiliation>استاد مدیریت بازرگانی، دانشکده مدیریت و حسابداری، دانشگاه شهید بهشتی</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>ایرج </FirstName>
+					<LastName>سلطانی</LastName>
+					<Affiliation>استادیار مدیریت آموزشی، دانشگاه آزاد اسلامی واحد خوراسگان</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>مریم </FirstName>
+					<LastName>قلی زاده</LastName>
+					<Affiliation>دانشجوی دکترای مدیریت منابع انسانی، پژوهشگاه شاخص پژوه اصفهان</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+</AuthorList>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>11</Month>
+					<Day>23</Day>
+				</PubDate>
+			</History>
+		<Abstract><![CDATA[...]]></Abstract>
+			<OtherAbstract Language="FA"><![CDATA[امروزه اغلب سازمان‌ها به دنبال انتخاب و پیاده­سازی شاخص‌های سرآمدی جهت ارتقای سطح کیفی خدمات و محصولات خود و درنهایت خلق ارزش برای کلیه ذینفعان می­باشند و شاخص‌های سرآمدی را به‌عنوان چارچوب عملیاتی در زمینه بهبود عملکرد سازمان‌ها در نظر می‌گیرند. ازاین‌رو استقرار شاخص‌های سرآمدی مدیریت دانش استراتژیک اجتناب‌ناپذیر شده است. هدف این مقاله نیز تبیین شاخص‌های سرآمدی مدیریت دانش استراتژیک است. بر همین اساس در این پژوهش علاوه بر مطالعه ادبیات پژوهش از فن دلفی فازی جهت پالایش و انتخاب شاخص‌های مدیریت دانش استراتژیک بهره گرفته‌شده است، ایده سنجی به‌عمل‌آمده در دو مرحله و با استفاده از رویکرد چنگ و لین مورد پالایش قرار گرفته است. جامعه آماری پژوهش را 30 نفر از خبرگان صنعت و دانشگاه تشکیل دادند. جهت بررسی و تحلیل در ابتدا 52 شاخص، برگرفته از ادبیات پژوهش و بررسی الگوهای سرآمدی انتخاب گردید که پس از پالایش نظرات خبرگان صنعت و دانشگاهی و با در نظر گرفتن پاسخ سؤالات باز در هر مرحله از فن دلفی فازی، 80 شاخص مورد تائید قرار گرفت. تا بدین­وسیله به کمک شاخص‌های استخراج‌شده مسیر سرآمدی برای سازمان‌ها روشن گردد و بتوانند هر چه سریع‌تر به تحقق سرآمدی در سازمان نائل آیند.]]></OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">سرآمدی سازمانی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">مدل‌های سرآمدی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">شاخص‌های سرآمدی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">تکنیک دلفی فازی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://smr.journals.iau.ir/article_532390_f0e938cebc1ae0688d086fafb53c9444.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه آزاد اسلامی</PublisherName>
+				<JournalTitle>پژوهش های مدیریت راهبردی</JournalTitle>
+				<Issn/>
+				<Volume>23</Volume>
+				<Issue>64</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>...</ArticleTitle><VernacularTitle>الگوی تعاملی استراتژی های ارتباطات سازمانی و استراتژی های منابع انسانی با عملکرد (مورد مطالعه: واحدهای پژوهشی دارای مجوز از وزارت علوم و تحقیقات و فناوری)</VernacularTitle>
+			<FirstPage>73</FirstPage>
+			<LastPage>97</LastPage>
+			<ELocationID EIdType="pii">532391</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>فاطمه السادات </FirstName>
+					<LastName>اعرابی</LastName>
+					<Affiliation>دانشجوی دکترای مدیریت منابع انسانی، پردیس البرز، دانشگاه تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>علی اکبر </FirstName>
+					<LastName>فرهنگی</LastName>
+					<Affiliation>استاد مدیریت، دانشکده مدیریت، دانشگاه آزاد اسلامی واحد  علوم و تحقیقات</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>سیدرضا </FirstName>
+					<LastName>سیدجوادین</LastName>
+					<Affiliation>استاد مدیریت منابع انسانی، دانشکده مدیریت، دانشگاه تهران</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+</AuthorList>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2017</Year>
+					<Month>01</Month>
+					<Day>30</Day>
+				</PubDate>
+			</History>
+		<Abstract><![CDATA[...]]></Abstract>
+			<OtherAbstract Language="FA"><![CDATA[این پژوهش با هدف شناسایی نقش تعدیل‌گر اخلاق حرفه­ای در رابطه بین سرمایه روان‌شناختی و هویت‌سازمانی در شرکت گاز مشهد مقدس انجام‌شده است. جهت بررسی سرمایه روان‌شناختی از پرسشنامه لوتانز (2007) و جهت بررسی هویت‌سازمانی از پرسشنامه چنی (1983)‌ و همچنین جهت بررسی اخلاق حرفه‌ای از پرسشنامه کادوزیر (2002)‌ استفاده‌شده است. داده‌های حاصل از این تحقیق در دو سطح توصیفی و استنباطی مورد تجزیه و تحلیل قرار گرفته­اند. در سطح آمار استنباطی از معادلات ساختاری استفاده شد. جامعه آماری شامل کلیه کارکنان رسمی شرکت گاز مشهد حدود 250 نفر است، که حجم نمونه بر اساس فرمول کوکران 152 نفر به دست آمد. برای تائید روایی محتوی و ظاهری از نظر اساتید خبره و همچنین استفاده از نتایج تحلیل عامل تأییدی استفاده گردید که نتیجه حاکی از تائید پرسشنامه بود. همچنین برای تائید پرسشنامه از ضریب آلفای کرونباخ استفاده گردید و پایایی در سطح 92/0 و 87/0 و 846/0 به ترتیب برای سرمایه روان‌شناختی، هویت‌سازمانی و اخلاق حرفه‌ای به دست آمد. نتایج حاصل از آزمون حاکی از تائید فرضیه اصلی تحقیق است. همچنین نتایج به‌دست‌آمده از آزمون فرضیات فرعی نشان‌دهنده تائید نقش تعدیل­گری همه مؤلفه­ها به جز عدالت-انصاف و همدردی، در رابطه بین سرمایه روان‌شناختی و هویت‌سازمانی است.]]></OtherAbstract>
+<ArchiveCopySource DocType="pdf">http://smr.journals.iau.ir/article_532391_1dc5d5a955de06adcc1c4be2778d7afd.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه آزاد اسلامی</PublisherName>
+				<JournalTitle>پژوهش های مدیریت راهبردی</JournalTitle>
+				<Issn/>
+				<Volume>23</Volume>
+				<Issue>64</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>...</ArticleTitle><VernacularTitle>بررسی نقش تعدیل‌گر اخلاق حرفه‌ای در رابطه بین سرمایه روان‌شناختی و هویت‌سازمانی</VernacularTitle>
+			<FirstPage>98</FirstPage>
+			<LastPage>117</LastPage>
+			<ELocationID EIdType="pii">532392</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>محمود </FirstName>
+					<LastName>قربانی</LastName>
+					<Affiliation>دانشیار گروه مدیریت دولتی دانشگاه آزاد اسلامی واحد مشهد</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>محمد علی </FirstName>
+					<LastName>عبدالهی</LastName>
+					<Affiliation>کارشناسی ارشد مدیریت دولتی، دانشگاه آزاد اسلامی واحد مشهد</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+</AuthorList>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>12</Month>
+					<Day>31</Day>
+				</PubDate>
+			</History>
+		<Abstract><![CDATA[..]]></Abstract>
+			<OtherAbstract Language="FA"><![CDATA[این پژوهش با هدف شناسایی نقش تعدیل‌گر اخلاق حرفه­ای در رابطه بین سرمایه روان‌شناختی و هویت‌سازمانی در شرکت گاز مشهد مقدس انجام‌شده است. جهت بررسی سرمایه روان‌شناختی از پرسشنامه لوتانز (2007) و جهت بررسی هویت‌سازمانی از پرسشنامه چنی (1983)‌ و همچنین جهت بررسی اخلاق حرفه‌ای از پرسشنامه کادوزیر (2002)‌ استفاده‌شده است. داده‌های حاصل از این تحقیق در دو سطح توصیفی و استنباطی مورد تجزیه و تحلیل قرار گرفته­اند. در سطح آمار استنباطی از معادلات ساختاری استفاده شد. جامعه آماری شامل کلیه کارکنان رسمی شرکت گاز مشهد حدود 250 نفر است، که حجم نمونه بر اساس فرمول کوکران 152 نفر به دست آمد. برای تائید روایی محتوی و ظاهری از نظر اساتید خبره و همچنین استفاده از نتایج تحلیل عامل تأییدی استفاده گردید که نتیجه حاکی از تائید پرسشنامه بود. همچنین برای تائید پرسشنامه از ضریب آلفای کرونباخ استفاده گردید و پایایی در سطح 92/0 و 87/0 و 846/0 به ترتیب برای سرمایه روان‌شناختی، هویت‌سازمانی و اخلاق حرفه‌ای به دست آمد. نتایج حاصل از آزمون حاکی از تائید فرضیه اصلی تحقیق است. همچنین نتایج به‌دست‌آمده از آزمون فرضیات فرعی نشان‌دهنده تائید نقش تعدیل­گری همه مؤلفه­ها به جز عدالت-انصاف و همدردی، در رابطه بین سرمایه روان‌شناختی و هویت‌سازمانی است.]]></OtherAbstract>
+<ArchiveCopySource DocType="pdf">http://smr.journals.iau.ir/article_532392_c62a8fef5e90b03fce7e093e0109b501.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه آزاد اسلامی</PublisherName>
+				<JournalTitle>پژوهش های مدیریت راهبردی</JournalTitle>
+				<Issn/>
+				<Volume>23</Volume>
+				<Issue>64</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>...</ArticleTitle><VernacularTitle>برآورد نیروی انسانی اداری مورد نیاز بر اساس روش زمان سنجی در دانشگاه علوم پزشکی شیراز</VernacularTitle>
+			<FirstPage>118</FirstPage>
+			<LastPage>133</LastPage>
+			<ELocationID EIdType="pii">532393</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>احسان </FirstName>
+					<LastName>گورکی</LastName>
+					<Affiliation>کارشناس ارشد مهندسی فن آوری اطلاعات، دانشگاه علوم پزشکی شیراز</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>رحیم </FirstName>
+					<LastName>معصومی</LastName>
+					<Affiliation>کارشناس علوم آزمایشگاهی، دانشگاه علوم پزشکی شیراز</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>سعیده </FirstName>
+					<LastName>نگهداری</LastName>
+					<Affiliation>کارشناس مدیریت خدمات بهداشتی درمانی، دانشگاه علوم پزشکی شیراز</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>سید جلیل </FirstName>
+					<LastName>معصومی</LastName>
+					<Affiliation>استادیار دانشگاه علوم پزشکی شیراز</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+</AuthorList>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>07</Month>
+					<Day>09</Day>
+				</PubDate>
+			</History>
+		<Abstract><![CDATA[...]]></Abstract>
+			<OtherAbstract Language="FA"><![CDATA[هدف این پژوهش تعیین شاخصی جهت برقراری امکان محاسبه نیروی انسانی اداری مورد نیاز در واحدهای ستادی و به‌تبع آن تعیین مقدار کمبود یا مازاد نیروی انسانی شاغل است. جهت مشخص نمودن شاخص‌های پایه­ای تعیین حجم کار اداری و دفتری، پروژه­ای به روش کارسنجی و زمان‌سنجی در دانشگاه علوم پزشکی شیراز انجام شد. مراحل کار شامل: احصاء و اصلاح فرآیندها، استخراج فعالیت­ها، ثبت زمان‌های استاندارد با استفاده از فرم­های پژوهشگر ساخته و کرنومتر به­عنوان ابزار پژوهش و محاسبه حجم کار مطلوب است. سپس عوامل مؤثر بر تعیین حجم کار کارکنان تجزیه و تحلیل شد. آزمون­های آماری مورد استفاده شامل رگرسیون خطی، آنوا، تی استیودنت و ضریب همبستگی پیرسون است که با استفاده از نرم‌افزار spss و Excell مورد ارزیابی قرار گرفت. یافته­های طرح مذکور بیانگر این بود که هیچ­کدام یک از عوامل تشکیل‌دهنده مبلغ حکم حقوقی کارکنان از جمله سابقه کار، مدرک تحصیلی و نوع استخدام تأثیری در حجم کار این افراد ندارد. از جهتی تغییر در حجم کارهای واگذارشده به آنها تفاوتی در مبلغ حقوق پرداختی افراد ندارد؛ اما حجم کار ارجاعی به کارکنان نمونه این پژوهش تابعی از تعداد نیروی انسانی زیرمجموعه آن واحد تعیین‌شده است؛ که این به­عنوان شاخص برآورد تعداد نیروی انسانی مورد نیاز برگزیده شد. می­توان برای کلیه مشاغل اداری شاخص­هایی بدین طریق مشخص نمود تا امکان سنجش حجم کار و ارزیابی عملکرد کارکنان به روش پیشنهادی برقرار گردد.]]></OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">کارسنجی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">زمان‌سنجی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">برآورد نیروی انسانی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">امور اداری و دفتری</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">حجم کار</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://smr.journals.iau.ir/article_532393_eef8494d01172624b7950d3a22c24dba.pdf</ArchiveCopySource>
+</Article>
+
+<Article>
+<Journal>
+				<PublisherName>دانشگاه آزاد اسلامی</PublisherName>
+				<JournalTitle>پژوهش های مدیریت راهبردی</JournalTitle>
+				<Issn/>
+				<Volume>23</Volume>
+				<Issue>64</Issue>
+				<PubDate PubStatus="epublish">
+					<Year>2017</Year>
+					<Month>06</Month>
+					<Day>20</Day>
+				</PubDate>
+			</Journal>
+<ArticleTitle>...</ArticleTitle><VernacularTitle>مدیریت راهبردی مالی با شناسایی فاکتورهای لازم جهت استقرار نظام بودجه‌ریزی بر مبنای عملکرد در دانشگاه آزاد اسلامی کشور</VernacularTitle>
+			<FirstPage>134</FirstPage>
+			<LastPage>152</LastPage>
+			<ELocationID EIdType="pii">532394</ELocationID>
+			
+			
+			<Language>FA</Language>
+<AuthorList>
+<Author>
+					<FirstName>مریم </FirstName>
+					<LastName>تختائی شهی</LastName>
+					<Affiliation>دانش‌آموخته کارشناسی ارشد حسابداری، دانشگاه آزاد اسلامی واحد بروجرد</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>رحمت اله </FirstName>
+					<LastName>محمدی پور</LastName>
+					<Affiliation>استادیار حسابداری دانشگاه آزاد اسلامی واحد</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+<Author>
+					<FirstName>محمود </FirstName>
+					<LastName>همت فر</LastName>
+					<Affiliation>دانشیار مدیریت مالی، دانشگاه آزاد اسلامی واحد بروجرد</Affiliation>
+					<Identifier Source="ORCID"/>
+</Author>
+</AuthorList>
+			<History>
+				<PubDate PubStatus="received">
+					<Year>2016</Year>
+					<Month>04</Month>
+					<Day>27</Day>
+				</PubDate>
+			</History>
+		<Abstract><![CDATA[...]]></Abstract>
+			<OtherAbstract Language="FA"><![CDATA[بودجه مهمترین ابزار برنامه­ریزی برای مدیریت هر سازمان به شمار می­آید و بودجه­ریزی به‌عنوان شرح صورت وضعیت و پیش­بینی درآمدها و هزینه­ها برای یک دوره، ­­مدیر را در کنترل سلامت مالی حوزه کمک می­کند. بر این اساس هدف از این تحقیق­، بررسی تأثیر عوامل مدیریتی­، ساختاری و محیطی بر استقرار نظام بودجه­ریزی عملکردی در دانشگاه آزاد اسلامی کشور در راستای مدیریت راهبردی مالی بوده و تعیین میزان تأثیر هر یک از این عوامل مد نظر است. بدین منظور برای جمع­آوری اطلاعات مورد نیاز از روش کتابخانه­ای و میدانی استفاده‌شده است. در بعد میدانی از پرسشنامه محقق ساخته استفاده گردید که در مورد روایی و پایایی آن کنترل­­های لازم صورت پذیرفت. ضریب آلفای کرونباخ در این خصوص 82 درصد بوده است. جامعه آماری پژوهش، ۱۰۰ نفر شامل کارکنان و اساتید حوزه بودجه­ریزی، مسئولین و معاونین اداری و مالی و برنامه­ریزی دانشگاه­های آزاد اسلامی کشور می­باشند. فرضیات پژوهش و داده­های تحقیق با آمار توصیفی و استنباطی، آزمون­های کلموگروف ـ اسمیرنوف، T تک­نمونه­ای، خی­دو و آزمون فریدمن توسط نرم­افزار spss مورد تجزیه و تحلیل قرار گرفت. نتایج به‌دست‌آمده نشان داده است که پیاده­سازی نظام بودجه­ریزی عملکردی در دانشگاه آزاد اسلامی با در نظر گرفتن عوامل مدیریتی، ساختاری و محیطی به ترتیب گفته شده امکان‌پذیر است و متناسب با شرایط دانشگاه به‌عنوان یک مجموعه کم نظیر علمی آموزشی است.]]></OtherAbstract>
+		<ObjectList>
+			<Object Type="keyword">
+			<Param Name="value">مدیریت مالی راهبردی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">دانشگاه آزاد اسلامی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">بودجه‌ریزی بر مبنای عملکرد</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">کارایی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">اثربخشی</Param>
+			</Object>
+			<Object Type="keyword">
+			<Param Name="value">صرفه اقتصادی</Param>
+			</Object>
+		</ObjectList>
+<ArchiveCopySource DocType="pdf">http://smr.journals.iau.ir/article_532394_acc5d00abe9f8f4be5d10d3c34c1569c.pdf</ArchiveCopySource>
+</Article>
+<link type="text/css" id="dark-mode" rel="stylesheet" href=""/></ArticleSet>
